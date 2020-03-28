@@ -10,6 +10,8 @@ DataMining HomeWork
 5. From the project folder, install packages using `pip install -r requirements.txt`
 6. Now environment is ready. Run it by `python {algorithms}/main.py`
 
+some code write in matlab 
+
 #### More algorithms are being committing, thank you for your attention.  
 
 Each algorithm, along with the additional hotspot description, is placed in a pdf file
@@ -17,6 +19,7 @@ Each algorithm, along with the additional hotspot description, is placed in a pd
 # algorithms:
 
 1-Covariance 
+2-Mean Shift
 
 ### Contact Me
 
