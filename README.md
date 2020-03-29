@@ -19,7 +19,10 @@ Each algorithm, along with the additional hotspot description, is placed in a pd
 # algorithms:
 
 1-Covariance 
+
 2-Mean Shift
+
+3-effect distance on result of clustering (Sqeuclidean , Braycurtis , Canberra , Chebyshev , cityblock , correlation , cosine , euclidean , mahalanobis , seuclidean )
 
 ### Contact Me
 
