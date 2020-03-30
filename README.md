@@ -9,8 +9,12 @@ DataMining HomeWork
 4. Connect to virtualenv using `source venv/bin/activate`
 5. From the project folder, install packages using `pip install -r requirements.txt`
 6. Now environment is ready. Run it by `python {algorithms}/main.py`
+### or
+1. Install anaconda with all packages in your system.
+2. Open anaconda prompt. 
+3. Now environment is ready. Run it by `python {algorithms}/main.py`
 
-some code write in matlab 
+some code write in matlab 2015
 
 #### More algorithms are being committing, thank you for your attention.  
 
@@ -23,6 +27,8 @@ Each algorithm, along with the additional hotspot description, is placed in a pd
 2-Mean Shift
 
 3-effect distance on result of clustering (Sqeuclidean , Braycurtis , Canberra , Chebyshev , cityblock , correlation , cosine , euclidean , mahalanobis , seuclidean )
+
+4-Predicting Diabetes Patient Readmission
 
 ### Contact Me
 
