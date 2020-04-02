@@ -13,6 +13,9 @@ DataMining HomeWork
 1. Install anaconda with all packages in your system.
 2. Open anaconda prompt. 
 3. Now environment is ready. Run it by `python {algorithms}/main.py`
+## or
+
+use https://colab.research.google.com/notebooks
 
 some code write in matlab 2015
 
@@ -31,6 +34,10 @@ Each algorithm, along with the additional hotspot description, is placed in a pd
 4-Predicting Diabetes Patient Readmission
 
 5-RBF Space 
+
+6-Gaussian Mixture Model 
+
+7-K-Nearest Neighbors
 
 ### Contact Me
 
