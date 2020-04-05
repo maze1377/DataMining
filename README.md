@@ -2,6 +2,9 @@ DataMining HomeWork
 ==========
 #My data mining code！Written by python and matlab.
 
+### If you are interested in this work, join me :).
+
+
 ## How to run
 1. Install python3, pip3, virtualenv,in your system.
 2. Clone the project `git clonehttps://github.com/maze1377/DataMining && cd DataMining`
@@ -38,6 +41,8 @@ Each algorithm, along with the additional hotspot description, is placed in a pd
 6-Gaussian Mixture Model 
 
 7-K-Nearest Neighbors
+
+8-Eigendecomposition of a matrix
 
 ### Contact Me
 
