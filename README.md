@@ -42,7 +42,9 @@ Each algorithm, along with the additional hotspot description, is placed in a pd
 
 7-K-Nearest Neighbors
 
-8-Eigendecomposition of a matrix
+8-Eigendecomposition of a matrix space
+
+9-Correntropy Indicator
 
 ### Contact Me
 
