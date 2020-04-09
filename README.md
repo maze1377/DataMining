@@ -46,6 +46,8 @@ Each algorithm, along with the additional hotspot description, is placed in a pd
 
 9-Correntropy Indicator
 
+10-kmean  with pseudo huber distance
+
 ### Contact Me
 
 Email:m_akbarizarkesh@yahoo.com
