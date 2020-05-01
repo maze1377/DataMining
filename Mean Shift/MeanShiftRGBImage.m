@@ -13,7 +13,7 @@ n=length(x);
 
 Ceof=1/(sqrt(2*pi)*n*Sigma);
 l = 1;
-R=zeros(1,length(x),3);
+R=zeros(1,length(x ),3);
 for i=1:length(x)
     z=x(i,l,:);
     for k=1:Iter
@@ -36,7 +36,7 @@ c = b > Threshold;
 d = find(c);
 d = d(find(d < size(x,1)));
 e = b(1,d,:);
-FF=[FF e]
+FF=[FF e];
 
 g = x - FF(1,1,:);
 j = g;

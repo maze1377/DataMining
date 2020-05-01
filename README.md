@@ -54,6 +54,7 @@ Each algorithm, along with the additional hotspot description, is placed in a pd
 
 11-insensitive distance
 
+12-Linkage Clustering
 
 ### Contact Me ###
 
